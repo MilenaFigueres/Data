@@ -1,0 +1,17 @@
+charge_or_credit,charge_type,disbursement_rule,amount,currency,user_id,event_id,description
+charge,CHARGEBACK_LOSS,IN_FULL,5.25,USD,49105547386,,Orders included in this blah blah
+charge,CHARGEBACK_LOSS,IN_FULL,14.75,USD,67266789365,,OID 123456678
+charge,CHARGEBACK_LOSS,IN_FULL,10.2,USD,109808227391,,Test test test
+credit,PAYOUT_ISSUE,IN_FULL,10,USD,49105547386,,This is a test of the bulk credit tool
+charge,CHARGEBACK_LOSS,IN_FULL,5.25,USD,49105547386,,Orders included in this blah blah
+charge,CHARGEBACK_LOSS,IN_FULL,14.75,USD,67266789365,,OID 123456678
+charge,CHARGEBACK_LOSS,IN_FULL,10.2,USD,109808227391,,Test test test
+credit,PAYOUT_ISSUE,IN_FULL,10,USD,49105547386,,This is a test of the bulk credit tool
+charge,CHARGEBACK_LOSS,IN_FULL,5.25,USD,49105547386,,Orders included in this blah blah
+charge,CHARGEBACK_LOSS,IN_FULL,14.75,USD,67266789365,,OID 123456678
+charge,CHARGEBACK_LOSS,IN_FULL,10.2,USD,109808227391,,Test test test
+credit,PAYOUT_ISSUE,IN_FULL,10,USD,49105547386,,This is a test of the bulk credit tool
+charge,CHARGEBACK_LOSS,IN_FULL,5.25,USD,49105547386,,Orders included in this blah blah
+charge,CHARGEBACK_LOSS,IN_FULL,14.75,USD,67266789365,,OID 123456678
+charge,CHARGEBACK_LOSS,IN_FULL,10.2,USD,109808227391,,Test test test
+
